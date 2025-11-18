@@ -1,6 +1,6 @@
 > If you are following the HackYourFuture curriculum, we recommend you to start from module 1: [HTML/CSS/GIT](https://github.com/HackYourFuture/HTML-CSS). To get a complete overview of the HackYourFuture curriculum first, click [here](https://github.com/HackYourFuture/curriculum).
 
-> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull request](https://github.com/HackYourFuture/React/pulls).
+> Please help us improve and share your feedback! If you find better tutorials or links, please share them by [opening a pull requet](https://github.com/HackYourFuture/React/pulls).
 
 # Module #7 - React.js: Building dynamic UIs with modern JavaScript (Frontend)
 
@@ -78,11 +78,11 @@ To have a more detailed overview of the guidelines, please read [this document](
 ## Planning
 
 | Week | Topics                                                  | Reading Materials                | Assignment                         |
-| ---- | ------------------------------------------------------- | -------------------------------- | -------------------------------- |
+| ---- | ------------------------------------------------------- | -------------------------------- | ---------------------------------- |
 | 1.   | What is React, JSX, State & Props, Deploy a static site | [Readings W1](./week1/README.md) | [Assignment W1](./week1/MAKEME.md) |
 | 2.   | API calls, Testing                                      | [Readings W2](./week2/README.md) | [Assignment W2](./week2/MAKEME.md) |
 | 3.   | Client-side routing, Context, Custom hooks              | [Readings W3](./week3/README.md) | [Assignment W3](./week3/MAKEME.md) |
-| 4.   | Project!                                                | [Readings W4](./week4/README.md) |                                  |
+| 4.   | Project!                                                | [Readings W4](./week4/README.md) |                                    |
 
 ## Finished?
 
